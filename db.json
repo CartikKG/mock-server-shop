@@ -60,5 +60,27 @@
         "age": 20,
         "email": "cnorssister9@mayoclinic.com"
       }
+    ],
+    "cart": [
+      {
+        "id":"1",
+        "name": "BHLDN Freya Satin Charmeuse Dress",
+        "image_1":
+          "https://images.urbndata.com/is/image/Anthropologie/62549456_031_b10?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=540",
+        "image_2":
+          "https://images.urbndata.com/is/image/Anthropologie/62549456_031_b2?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=540",
+        "image_3": "image.png",
+        "price": "220.0"
+      },
+      {
+        "id":"2",
+        "name": "BHLDN Freya Satin Charmeuse Dress",
+        "image_1":
+          "https://images.urbndata.com/is/image/Anthropologie/62549456_031_b10?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=540",
+        "image_2":
+          "https://images.urbndata.com/is/image/Anthropologie/62549456_031_b2?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=540",
+        "image_3": "image.png",
+        "price": "220.0"
+      }
     ]
   }
