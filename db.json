@@ -70,7 +70,8 @@
         "image_2":
           "https://images.urbndata.com/is/image/Anthropologie/62549456_031_b2?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=540",
         "image_3": "image.png",
-        "price": "220.0"
+        "price": "220.0",
+        "Qty":1
       },
       {
         "id":"2",
@@ -80,7 +81,8 @@
         "image_2":
           "https://images.urbndata.com/is/image/Anthropologie/62549456_031_b2?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=540",
         "image_3": "image.png",
-        "price": "220.0"
+        "price": "220.0",
+        "Qty":1
       }
     ]
   }
