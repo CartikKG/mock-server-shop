@@ -118,7 +118,7 @@
         "image_1":
           "https://cdn.shopify.com/s/files/1/0339/0901/products/image_83f9838e-9940-4a68-913a-fd27d31b08c6_1800x1800.jpg?v=1669947270",
         "image_2":
-          "https://cdn.shopify.com/s/files/1/0339/0901/products/shopdressup_knit_sweater-8_178b255b-7671-406b-af21-824a684d5322_120x.jpg?v=1669947270",
+          "https://shopdressup.com/collections/black-friday/products/snuggled-up-chenille-sweater?_pos=5&_fid=e85d9310e&_ss=c&variant=40315668856899",
         "image_3": "https://cdn.shopify.com/s/files/1/0339/0901/products/0R4A2166_720x.jpg?v=1669947270",
         "image_4": "https://cdn.shopify.com/s/files/1/0339/0901/products/shopdressup_knit_sweater-12_79417f57-af5f-447e-b9e6-97f9b6c82176_120x.jpg?v=1669947270",
         "image_5": "https://cdn.shopify.com/s/files/1/0339/0901/products/shopdressup_knit_sweater-7_2fe28b0f-a7ee-476b-9e51-bc06f5fd2436_120x.jpg?v=1669947270",
@@ -126,6 +126,7 @@
         "sold" : 5,
         "manufacture_date" : 1990,
         "size" : "M",
+        "color" : "green",
         "stock" : true
       },
       { "id": 2,
@@ -143,6 +144,7 @@
         "price": "425.0",
         "sold" : 50,
         "manufacture_date" : 1994,
+        "color" : "green",
         "size" : "S",
         "stock":true
     
@@ -162,6 +164,7 @@
         "price": "276.0",
         "sold" : 10,
         "manufacture_date" : 2000,
+        "color" : "white",
         "size" : "M",
         "stock":false
       },
@@ -180,6 +183,7 @@
         "price": "90",
         "sold" : 60,
         "manufacture_date" : 2005,
+        "color" : "green",
         "size" : "L",
         "stock":false
     
@@ -199,6 +203,7 @@
         "price": "95",
         "sold" : 40,
         "manufacture_date" : 1997,
+        "color" : "green",
         "size" : "S",
         "stock":true
       },
@@ -217,6 +222,7 @@
         "price": "48.0",
         "sold" : 10,
         "manufacture_date" : 2000,
+        "color" : "gray",
         "size" : "M",
         "stock":false
       },
@@ -235,6 +241,7 @@
         "price": "68",
         "sold" : 10,
         "manufacture_date" : 2009,
+        "color" : "green",
         "size" : "L",
         "stock":true
       },
@@ -253,6 +260,7 @@
         "price": "320.0",
         "sold" : 45,
         "manufacture_date" : 2003,
+        "color" : "gray",
         "size" : "M",
         "stock":false
       },
@@ -271,6 +279,7 @@
        
         "price": "395",
         "manufacture_date" : 1999,
+        "color" : "green",
         "size" : "S",
         "stock":true
       },
@@ -291,6 +300,7 @@
        
         "sold" : 30,
         "manufacture_date" : 2005,
+        "color" : "gray",
         "size" : "L",
         "stock":false
       },
@@ -309,6 +319,7 @@
         "price": "150.0",
         "sold" : 150,
         "manufacture_date" : 2019,
+        "color" : "red",
         "size" : "S",
         "stock":false
       },
@@ -328,6 +339,7 @@
         "price": "220.0",
         "sold" : 40,
         "manufacture_date" : 2020,
+        "color" : "gray",
         "size" : "M",
         "stock":true
       },
@@ -344,6 +356,7 @@
       "price": "220.0",
       "sold" : 25,
       "manufacture_date" : 2010,
+      "color" : "red",
       "size" : "S",
       "stock" : true
     },
@@ -359,6 +372,7 @@
     "price": "220.0",
     "sold" : 25,
     "manufacture_date" : 2010,
+    "color" : "red",
     "size" : "S",
     "stock" : true
     },
@@ -374,6 +388,7 @@
     "price": "120.0",
     "sold" : 25,
     "manufacture_date" : 2010,
+    "color" : "gray",
     "size" : "L",
     "stock" : true
     },
@@ -389,6 +404,7 @@
     "price": "20.0",
     "sold" : 25,
     "manufacture_date" : 2010,
+    "color" : "green",
     "size" : "S",
     "stock" : true
     },
@@ -405,21 +421,23 @@
     "price": "5.0",
     "sold" : 15,
     "manufacture_date" : 2021,
+    "color" : "black",
     "size" : "M",
     "stock" : true
     },
     { "id" : 18,
     "name": "Favorite Cuddles Fuzzy Knit Joggers",
     "image_1":
-      "https://cdn.shopify.com/s/files/1/0339/0901/products/shopdressup_fuzzy_knit_joggers-11_120x.jpg?v=1669425644",
+      "https://cdn.shopify.com/s/files/1/0339/0901/products/shopdressup_fuzzy_knit_joggers-11_360x.jpg?v=1669425644",
     "image_2":
-      "https://cdn.shopify.com/s/files/1/0339/0901/products/shopdressup_fuzzy_knit_joggers-7_120x.jpg?v=1669425789",
+      "https://cdn.shopify.com/s/files/1/0339/0901/products/shopdressup_fuzzy_knit_joggers-2_540x.jpg?v=1669425789",
     "image_3": "https://cdn.shopify.com/s/files/1/0339/0901/products/shopdressup_fuzzy_knit_joggers-2_120x.jpg?v=1669425789",
     "image_4": "https://cdn.shopify.com/s/files/1/0339/0901/products/shopdressup_fuzzy_knit_joggers-3_720x.jpg?v=1669425789",
     "image_5": "https://cdn.shopify.com/s/files/1/0339/0901/products/shopdressup_fuzzy_knit_joggers-6_120x.jpg?v=1669425789",
     "price": "55.0",
     "sold" : 55,
     "manufacture_date" : 2005,
+    "color" : "black",
     "size" : "S",
     "stock" : true
     },
@@ -435,6 +453,7 @@
     "price": "55.0",
     "sold" : 55,
     "manufacture_date" : 2005,
+    "color" : "black",
     "size" : "L",
     "stock" : true
     },
@@ -450,6 +469,7 @@
     "price": "85.0",
     "sold" : 55,
     "manufacture_date" : 2015,
+    "color" : "black",
     "size" : "S",
     "stock":true
     }
